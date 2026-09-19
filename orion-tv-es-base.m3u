@@ -1,0 +1,6 @@
+#EXTM3U
+# Orion TV - lista base en español
+# Fuentes públicas de IPTV-org; la disponibilidad de cada canal puede cambiar.
+
+#EXTINF:-1 group-title="Orion TV | Español",Lista IPTV-org en español
+https://iptv-org.github.io/iptv/languages/spa.m3u
